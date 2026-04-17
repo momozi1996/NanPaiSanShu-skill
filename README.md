@@ -34,10 +34,10 @@
 ## 简介
 
  🌟**南派三叔**
- [南派三叔.skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/nanpaisanshu-skill/SKILL.md)
- 题材：奇幻小说
- 南派三叔盗墓探险思维——下墓倒斗、悬疑探险、铁三角兄弟情、挖坑艺术。擅长：盗墓探险、悬疑氛围、第一人称叙事、挖坑填坑、兄弟情。
- 触发词：「南派三叔视角」「像南派三叔那样写」「下墓」「粽子」「铁三角」「坑王」。
+ [南派三叔.skill](https://github.com/momozi1996/momozi-ai-book/blob/main/Novelists/nanpaisanshu-skill/SKILL.md)<br>
+ **题材**：奇幻小说<br>
+  **南派三叔盗墓探险思维**——下墓倒斗、悬疑探险、铁三角兄弟情、挖坑艺术。擅长：盗墓探险、悬疑氛围、第一人称叙事、挖坑填坑、兄弟情。<br>
+  **触发词**：「南派三叔视角」「像南派三叔那样写」「下墓」「粽子」「铁三角」「坑王」。<br>
 
 ---
 ## 🚀 快速开始
