@@ -21,19 +21,7 @@
  ❤️ star+fork  ❤️ 支持我们～你还想蒸馏谁？ （留言+贡献吧🎉）
 </p>
 
-<p align="center">
-<a href="#效果示例">看效果</a> · <a href="#快速开始">安装</a> · <a href="#作家skill目录">作家列表</a> · <a href="#工作原理">工作原理</a>
-</p>
-
 ---
-
-<p align="center">
-其他语言/Other Languages:
-<a href="./README_EN.md">English</a> ·
-<a href="./README_JP.md">日本語</a> ·
-<a href="./README_KO.md">한국어</a> ·
-</p>
-
 
 ✨ 这是什么？
 这不是普通的文集摘抄，也不是风格模仿模板。我们用「女娲蒸馏」技术，拆解作家的：
